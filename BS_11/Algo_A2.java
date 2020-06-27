@@ -7,6 +7,11 @@ public class Algo_A2 {
     }
 
        /**
+        * Aufgabe 2:
+
+     Gegeben sei folgender Algorithmus. Was leistet der Algorithmus?
+     Schreiben Sie den Code in Java
+
      Eingabe: k1, k2, ..., kc∈{0, 1, 2, ...}
         a := 0;
         b := 1;
